@@ -1,0 +1,1 @@
+export type KpiChartValueFormat = 'K' | 'M' | null;

@@ -1,0 +1,1 @@
+export type KpiChartLabelType = 'text' | 'number' | 'percent';
